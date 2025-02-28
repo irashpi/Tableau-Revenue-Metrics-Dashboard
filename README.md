@@ -37,7 +37,12 @@
 
 - За віком  
 - За мовою користувача  
-- За типом пристрою  
+- За типом пристрою
+
+## Дашборд на Tableau Public
+
+Переглянути дашборд на Tableau Public: [Tableau Dashboard](https://public.tableau.com/app/profile/ira.shpiller/viz/NEW_FINAL_PROJECT/Dashboard1?publish=yes)
+
 
 ## Результати
 
